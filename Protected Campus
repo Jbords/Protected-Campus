@@ -1,0 +1,5 @@
+git init           # Initialize a new Git repository
+git add .          # Add all files to staging area
+git commit -m "Initial commit"  # Commit the files with a message
+git remote add origin https://github.com/your-username/protected-campus-app.git  # Link to GitHub repository
+git push -u origin master  # Push your code to GitHub (or git push -u origin main if using main branch)
